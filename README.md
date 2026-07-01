@@ -36,3 +36,6 @@ Syrine Ahmed — [GitHub](https://github.com/syrineahmed)
 
 ## Preview
 ![App Screenshot](screenshot.jpg)
+
+## 🌐 Live Demo
+👉 [Try it here](https://document-chat-syrineahmed.streamlit.app/)
